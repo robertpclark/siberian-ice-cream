@@ -1,7 +1,7 @@
 {
   "name": "siberian-ice-cream",
   "version": "1.0.0",
-  "description": "Nucamp Portfolio Project",
+  "description": "This is a website for a fictious ice cream shop for the Nucamp Portfolio Project.",
   "main": "index.html",
   "dependencies": {},
   "devDependencies": {
